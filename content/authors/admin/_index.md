@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a second year PhD students in Statistics at the Wharton School, University of Pennsylvania, where I am fortunate to be working with Michael Kearns and Aaron Roth.
+I am a second year PhD students in Statistics at the Wharton School, University of Pennsylvania, where I am fortunate to be working with Michael Kearns.
