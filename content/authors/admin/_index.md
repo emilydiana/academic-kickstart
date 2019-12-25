@@ -15,15 +15,15 @@ role: Doctoral Student in Statistics
 # Organizations/Affiliations
 organizations:
 - name: The Wharton School, University of Pennsylvania
-  url: ""
+  url: "https://statistics.wharton.upenn.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lie in the intersection of statistics and computer science. I am particularly interested in efficient modeling tools for ** applications. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical Learning
+- Differential Privacy
+- Markov Chain Monte Carlo 
 
 education:
   courses:
@@ -35,7 +35,7 @@ education:
     year: 2018
   - course: BA in Applied Mathematics
     institution: Yale University
-    year: 2011
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -56,9 +56,9 @@ social:
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
