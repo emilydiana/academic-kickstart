@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Student in Statistics 
+role: Statistics PhD Student 
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,8 @@ organizations:
 bio: My research interests lie in the intersection of statistics and computer science. I am particularly interested in efficient modeling tools for ** applications. 
 
 interests:
+- Computational Statistics
 - Statistical Learning
-- Differential Privacy
-- Markov Chain Monte Carlo 
 
 education:
   courses:
@@ -50,7 +49,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=7FJggasAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -70,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a second year PhD students in Statistics at the Wharton School, University of Pennsylvania, where I am fortunate to be working with Michael Kearns.
+I am a second year doctoral students in Statistics at the Wharton School, University of Pennsylvania, where I am working in the research group of Michael Kearns and Aaron Roth.

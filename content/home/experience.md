@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "Stanford Center on Poverty and Inequality"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  location = "Stanford, California"
+  date_start = "2018-01-01"
+  date_end = "2018-09-01"
+  description = """Worked with David Grusky and Adrian Raftery refining and developing methodologies to analyze contemporary trends in social mobility using contingency tables of longitudinally-linked Census data."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Software Developer"
+  company = "Lawrence Livermore National Laboratory"
+  company_url = "https://www.llnl.gov"
+  location = "Livermore, California"
+  date_start = "2015-08-01"
+  date_end = "2017-09-01"
+  description = """"""
+
+[[experience]]
+  title = "Cyber Defenders Intern"
+  company = "Lawrence Livermore National Laboratory"
+  company_url = "https://www.llnl.gov"
+  location = "Livermore, California"
+  date_start = "2015-08-01"
+  date_end = "2017-09-01"
+  description = """"""
 
 +++
