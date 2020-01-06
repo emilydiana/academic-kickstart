@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Employment"
 subtitle = ""
 
 # Date format for experience
@@ -18,16 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Assistant"
+  title = "Graduate Research Assistant"
   company = "Stanford Center on Poverty and Inequality"
-  company_url = ""
+  company_url = "https://inequality.stanford.edu/"
   location = "Stanford, California"
   date_start = "2018-01-01"
   date_end = "2018-09-01"
-  description = """Worked with David Grusky and Adrian Raftery refining and developing methodologies to analyze contemporary trends in social mobility using contingency tables of longitudinally-linked Census data."""
+  description = """"""
 
 [[experience]]
-  title = "Software Developer"
+  title = "Scientific Software Developer"
   company = "Lawrence Livermore National Laboratory"
   company_url = "https://www.llnl.gov"
   location = "Livermore, California"
@@ -36,12 +36,21 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Cyber Defenders Intern"
+  title = "Undergraduate Summer Intern"
   company = "Lawrence Livermore National Laboratory"
   company_url = "https://www.llnl.gov"
   location = "Livermore, California"
   date_start = "2015-08-01"
   date_end = "2017-09-01"
+  description = """"""
+
+[[experience]]
+  title = "Undergraduate Summer Researcher"
+  company = "Michigan State University"
+  company_url = "https://lbc.msu.edu/about/suriem.html"
+  location = "East Lansing, Michigan"
+  date_start = "2013-05-01"
+  date_end = "2013-07-01"
   description = """"""
 
 +++
