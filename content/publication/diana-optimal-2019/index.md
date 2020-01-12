@@ -8,5 +8,7 @@ publication_types: ["3"]
 featured: true 
 publication: "In NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy"
 url_pdf: "http://arxiv.org/abs/1912.06202"
+url_slides: "Neurips_Talk.pdf"
+url_poster: "Neurips_Poster.pdf"
 ---
 

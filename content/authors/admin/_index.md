@@ -18,11 +18,12 @@ organizations:
   url: "https://statistics.wharton.upenn.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in the intersection of statistics and computer science. I am particularly interested in efficient modeling tools for ** applications. 
+#bio:
 
 interests:
 - Computational Statistics
-- Statistical Learning
+- Economic Game Theory
+- Differential Privacy
 
 education:
   courses:
@@ -33,7 +34,7 @@ education:
     institution: Stanford University
     year: 2018
   - course: BA in Applied Mathematics
-    institution: Yale University
+    institution: Yale College 
     year: 2015
 
 # Social/Academic Networking
@@ -57,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,4 +70,8 @@ user_groups:
 - Visitors
 ---
 
-I am a second year doctoral students in Statistics at the Wharton School, University of Pennsylvania, where I am working in the research group of Michael Kearns and Aaron Roth.
+I am a second year doctoral students in Statistics at the Wharton School, University of Pennsylvania, where I am working in the research group of Michael Kearns and Aaron Roth. 
+
+Before coming to Penn, I completed a Bachelor of Arts in Applied Mathematics at Yale College, conducting research on graph clustering algorithms under the supervision of Daniel Spielman, and a Master of Science in Statistics at Stanford University, where I worked with Adrian Raftery and David Grusky developing Bayesian methods for analyzing trends in socioeconomic mobility.
+
+Between undergraduate and graduate school, I spent two years as a scientific software developer at Lawrence Livermore National Laboratory, focusing on improving the performance of government finite element physics simulation codes.
