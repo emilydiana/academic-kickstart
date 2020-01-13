@@ -72,6 +72,6 @@ user_groups:
 
 I am a second year doctoral student in Statistics at the Wharton School, University of Pennsylvania, where I am working in the research group of Michael Kearns.
 
-Before coming to Penn, I completed a Bachelor of Arts in Applied Mathematics at Yale College, conducting research on graph clustering algorithms under the supervision of Daniel Spielman, and a Master of Science in Statistics at Stanford University, where I worked with Adrian Raftery and David Grusky developing Bayesian methods for analyzing trends in socioeconomic mobility.
+Before coming to Penn, I completed a Bachelor of Arts in Applied Mathematics at Yale, conducting research on graph clustering algorithms under the supervision of Daniel Spielman, and a Master of Science in Statistics at Stanford, where I worked with Adrian Raftery and David Grusky developing Bayesian methods for analyzing trends in socioeconomic mobility.
 
 Between undergraduate and graduate school, I spent two years as a scientific software developer at Lawrence Livermore National Laboratory, focusing on improving the performance of government finite element physics simulation codes.
