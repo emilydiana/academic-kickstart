@@ -6,7 +6,7 @@ authors: ["Charles R. Noble", "Andrew T. Anderson", "Nathan R. Barton", "Jamie A
 publication_types: ["4"]
 featured: true 
 publication: "The U.S. Department of Energy's Office of Scientific and Technical Information"
-url_pdf: "https://www.osti.gov/biblio/1361589"
+url_pdf: "https://www.researchgate.net/publication/317677628_ALE3D_An_Arbitrary_Lagrangian-Eulerian_Multi-Physics_Code"
 doi: "10.2172/1361589"
 ---
 
