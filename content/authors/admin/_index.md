@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a second year PhD student in Statistics at the Wharton School, University of Pennsylvania, where I am working in the research group of Michael Kearns. I hold a B.A. in Applied Mathematics from Yale and an M.S. in Statistics from Stanford. 
+I am a second year PhD student in Statistics at the Wharton School, University of Pennsylvania, where I am working in the research group of [Michael Kearns](https://www.cis.upenn.edu/~mkearns/). I hold a B.A. in Applied Mathematics from Yale and an M.S. in Statistics from Stanford. 
 
-Before graduate school, I worked for two years as a scientific software developer at Lawrence Livermore National Laboratory, focusing on improving the performance of government finite element physics simulation codes.
+Before graduate school, I worked for two years as a scientific software developer at [Lawrence Livermore National Laboratory](https://www.llnl.gov/), focusing on improving the performance of government finite element physics simulation codes.
