@@ -21,7 +21,7 @@ organizations:
 #bio:
 
 interests:
-- Computational Statistics
+- Algorithmic Fairness 
 - Economic Game Theory
 - Differential Privacy
 
