@@ -6,6 +6,6 @@ authors: ["Emily Diana", "Wesley Gill", "Michael Kearns", "Aaron Roth", "Krishna
 publication_types: ["3"]
 featured: true 
 publication: "Preprint"
-url_pdf: "http://arxiv.org/abs/2011.031082011.03108"
+url_pdf: "http://arxiv.org/abs/2011.03108"
 ---
 
