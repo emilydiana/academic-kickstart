@@ -1,7 +1,7 @@
 ---
 title: "Differentially Private Call Auctions and Market Impact"
 #date: 2020-06-12
-publishDate: 2020-07
+publishDate: 2020-07-01
 authors: ["Emily Diana", "Hadi Elyzan", "Michael Kearns", "Aaron Roth", "Saeed Sharifi-Malvajerdi","Juba Ziani"]
 publication_types: ["3"]
 featured: true 
