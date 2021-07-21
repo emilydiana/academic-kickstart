@@ -6,6 +6,6 @@ authors: ["Emily Diana", "Wesley Gill", "Michael Kearns", "Krishnaram Kenthapadi
 publication_types: ["3"]
 featured: true 
 publication: "Preprint"
-url_pdf: "http://arxiv.org/abs/2102.08454"
+url_pdf: "http://arxiv.org/abs/2107.04423"
 ---
 
