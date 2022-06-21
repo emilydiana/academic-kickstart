@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth year PhD student in Statistics at the Wharton School, University of Pennsylvania, where I am advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). I hold a B.A. in Applied Mathematics from Yale and an M.S. in Statistics from Stanford. 
+I am a fifth year PhD student in Statistics at the Wharton School, University of Pennsylvania, where I am advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). I hold a B.A. in Applied Mathematics from Yale and an M.S. in Statistics from Stanford. 
 
 Before graduate school, I worked for two years as a scientific software developer at [Lawrence Livermore National Laboratory](https://www.llnl.gov/), focusing on improving the performance of government finite element physics simulation codes.
+
+I will be on the academic job market starting Fall 2022. 
