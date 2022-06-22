@@ -7,5 +7,7 @@ publication_types: ["3"]
 featured: true 
 publication: "2022 ACM Conference on Fairness, Accountability, and Transparency"
 url_pdf: "http://arxiv.org/abs/2107.04423"
+url_slides: "FAccT_Slides.pdf"
+url_poster: "FAccT_Poster.pdf"
 ---
 
