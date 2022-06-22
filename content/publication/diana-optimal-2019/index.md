@@ -8,7 +8,7 @@ publication_types: ["3"]
 featured: true 
 publication: "ICAIF '20: Proceedings of the First ACM International Conference on AI in Finance" 
 url_pdf: "http://arxiv.org/abs/1912.06202"
-url_slides: "Neurips_Talk.pdf"
+url_slides: "ICAIF_Talk.pdf"
 url_poster: "Neurips_Poster.pdf"
 ---
 
