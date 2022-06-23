@@ -7,5 +7,7 @@ publication_types: ["3"]
 featured: true 
 publication: "AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society"
 url_pdf: "http://arxiv.org/abs/2011.03108"
+url_poster: "AIES_Poster.pdf"
+url_sles: "AIES_Slides.pdf"
 ---
 
