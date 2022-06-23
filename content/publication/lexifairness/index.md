@@ -7,5 +7,6 @@ publication_types: ["3"]
 featured: true 
 publication: "2nd Symposium on Foundations of Responsible Computing"
 url_pdf: "http://arxiv.org/abs/2102.08454"
+url_slides: "FORC_Slides.pdf"
 ---
 
