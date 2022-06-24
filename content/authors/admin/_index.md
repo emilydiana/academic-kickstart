@@ -75,4 +75,4 @@ I am a rising fifth year PhD student in Statistics and Data Science at the Whart
 
 Before Penn, I received a B.A. in Applied Mathematics from Yale College and an M.S. in Statistics from Stanford Univeristy, and I spent two years as a software developer at [Lawrence Livermore National Laboratory](https://www.llnl.gov/), focusing on improving the performance of government finite element physics simulation codes. I maintain an active collaboration with Amazon AWS and the Federal Reserve Bank of Philadelphia.
 
-I will be on the academic job market starting Fall 2022. My research statement can be found [here](/files/ResearchStatement.pdf).
+I will be on the academic job market starting Fall 2022. My research statement is [here](/files/ResearchStatement.pdf).
