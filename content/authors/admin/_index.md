@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am a rising fifth year PhD student in Statistics and Data Science at the Wharton School, University of Pennsylvania, where I am advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). My research focuses on the intersection of ethical algorithm design and socially aware machine learning. I am honored to have been recognized as both a [Rising Star in EECS](https://risingstars21-eecs.mit.edu) by MIT and a [Future Leader in Data Science](https://midas.umich.edu/future-leaders-summit-2022/) by the University of Michigan.
+I am a fifth year PhD student in Statistics and Data Science at the Wharton School, University of Pennsylvania, where I am advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). My research focuses on the intersection of ethical algorithm design and socially responsible machine learning. I am honored to be the recipient of the 2022 Wharton School's J. Parker Memorial Bursk Prize for Excellence in Research and to have been recognized as both a [Rising Star in EECS](https://risingstars21-eecs.mit.edu) by MIT and a [Future Leader in Data Science](https://midas.umich.edu/future-leaders-summit-2022/) by the University of Michigan.
 
 Before Penn, I received a B.A. in Applied Mathematics from Yale College and an M.S. in Statistics from Stanford University, and I spent two years as a software developer at [Lawrence Livermore National Laboratory](https://www.llnl.gov/), focusing on improving the performance of government finite element physics simulation codes. I maintain an active collaboration with Amazon AWS and the Federal Reserve Bank of Philadelphia.
 
