@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Statistics and Data Science PhD Student 
+role: Research Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
-- name: The Wharton School, University of Pennsylvania
-  url: "https://statistics.wharton.upenn.edu"
+- name: Toyota Technological Institute at Chicago
+  url: "https://www.ttic.edu"
+- name: Tepper School of Business - Carnegie Mellon University (Starting Fall 2024)
+  url: "https://www.cmu.edu/tepper/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
@@ -28,9 +30,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Statistics 
+  - course: PhD in Statistics and Data Science 
     institution: The Wharton School, University of Pennsylvania 
-    year: Expected 2023
+    year: 2023
   - course: MS in Statistics
     institution: Stanford University
     year: 2018
