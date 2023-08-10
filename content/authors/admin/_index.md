@@ -10,14 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant Professor 
+role: Research Assistant Professor (Incoming)
 
 # Organizations/Affiliations
 organizations:
 - name: Toyota Technological Institute at Chicago
   url: "https://www.ttic.edu"
-- name: Tepper School of Business - Carnegie Mellon University (Starting Fall 2024)
-  url: "https://www.cmu.edu/tepper/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
