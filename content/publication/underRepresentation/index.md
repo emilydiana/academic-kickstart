@@ -1,5 +1,5 @@
 ---
-ttle: "Correcting Underrepresentation and Intersectionality Bias for Classification"
+title: "Correcting Underrepresentation and Intersectionality Bias for Classification"
 #date: 2023-08-09
 publishDate: 2023-07-30
 authors: ["Emily Diana","Alexander Williams Tolbert"]
