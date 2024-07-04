@@ -1,7 +1,7 @@
 ---
 title: "Balanced Filtering via Disclosure-Controlled Proxies"
 #date: 2023-08-10
-publishDate: 2024
+publishDate: 2024-06-12
 authors: ["Siqi Deng", "Emily Diana", "Michael Kearns", "Aaron Roth"]
 publication_types: ["1"]
 featured: true 
