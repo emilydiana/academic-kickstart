@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor of Operations Research
 
 # Organizations/Affiliations
 organizations:
-- name: Toyota Technological Institute at Chicago
+- name: Carnegie Mellon University's Tepper School of Business
   url: "https://www.ttic.edu"
 
 # Short bio (displayed in user profile at end of posts)
@@ -71,8 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Research Assistant Professor at the [Toyota Technological Institute at Chicago](https://www.ttic.edu). Starting in August of 2024, I will be an Assistant Professor in the [Operations Research group at CMU's Tepper School of Business](https://www.cmu.edu/tepper/faculty-and-research/academic-areas/operations-research/index.html). 
+I am an Assistant Professor in the [Operations Research group at CMU's Tepper School of Business](https://www.cmu.edu/tepper/faculty-and-research/academic-areas/operations-research/index.html). I received my Ph. D. in Statistics and Data Science from the Wharton School of the University of Pennsylvania, where I was advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). My research focuses on the intersection of ethical algorithm design and socially responsible machine learning. I am honored to be the recipient of the 2022 Wharton School's J. Parker Memorial Bursk Prize for Excellence in Research and the 2024 FORC Best Paper Award, and I have been recognized as both a [Rising Star in EECS](https://risingstars21-eecs.mit.edu) by MIT and a [Future Leader in Data Science](https://midas.umich.edu/future-leaders-summit-2022/) by the University of Michigan.
 
-I received my Ph. D. in Statistics and Data Science from the Wharton School of the University of Pennsylvania, where I was advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). My research focuses on the intersection of ethical algorithm design and socially responsible machine learning. I am honored to be the recipient of the 2022 Wharton School's J. Parker Memorial Bursk Prize for Excellence in Research and the 2024 FORC Best Paper Award, and I have been recognized as both a [Rising Star in EECS](https://risingstars21-eecs.mit.edu) by MIT and a [Future Leader in Data Science](https://midas.umich.edu/future-leaders-summit-2022/) by the University of Michigan.
-
-Before Penn, I received a B.A. in Applied Mathematics from Yale College and an M.S. in Statistics from Stanford University, and I spent two years as a software developer at [Lawrence Livermore National Laboratory](https://www.llnl.gov/), focusing on improving the performance of government finite element physics simulation codes.
+Before Penn, I received a B.A. in Applied Mathematics from Yale College and an M.S. in Statistics from Stanford University, and I spent two years as a software developer at [Lawrence Livermore National Laboratory](https://www.llnl.gov/), focusing on improving the performance of government finite element physics simulation codes. I also spent one wonderful year at the [Toyota Technological Institute at Chicago](https://www.ttic.edu) as a Research Assistant Professor between my time at Penn and CMU.
