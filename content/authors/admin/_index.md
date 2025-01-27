@@ -73,7 +73,7 @@ user_groups:
 
 I am a Research Assistant Professor at the [Toyota Technological Institute at Chicago](https://www.ttic.edu). Starting in August of 2024, I will be an Assistant Professor in the [Operations Research group at CMU's Tepper School of Business](https://www.cmu.edu/tepper/faculty-and-research/academic-areas/operations-research/index.html). 
 
-#I am also the co-principal investigator of the [AI & Philosophy Lab](https://sites.google.com/view/aiphilosophylab/about?authuser=0) with [Alexander Williams Tolbert](https://www.alexanderwilliamstolbert.com).
+# I am also the co-principal investigator of the [AI & Philosophy Lab](https://sites.google.com/view/aiphilosophylab/about?authuser=0) with [Alexander Williams Tolbert](https://www.alexanderwilliamstolbert.com).
 
 I received my Ph. D. in Statistics and Data Science from the Wharton School of the University of Pennsylvania, where I was advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). My research focuses on the intersection of ethical algorithm design and socially responsible machine learning. I am honored to be the recipient of the 2022 Wharton School's J. Parker Memorial Bursk Prize for Excellence in Research and the 2024 FORC Best Paper Award, and I have been recognized as both a [Rising Star in EECS](https://risingstars21-eecs.mit.edu) by MIT and a [Future Leader in Data Science](https://midas.umich.edu/future-leaders-summit-2022/) by the University of Michigan.
 
