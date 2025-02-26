@@ -2,7 +2,7 @@
 title: "Balanced Filtering via Disclosure-Controlled Proxies"
 #date: 2023-08-10
 publishDate: 2024-06-12
-authors: ["Siqi Deng", "Emily Diana", "Michael Kearns", "Aaron Roth"]
+authors: ["S Deng", "E Diana", "M Kearns", "A Roth"]
 publication_types: ["1"]
 featured: true 
 publication: "5th Symposium on Foundations of Responsible Computing (FORC 2024)"

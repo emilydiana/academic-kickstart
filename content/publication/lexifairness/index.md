@@ -2,7 +2,7 @@
 title: "Lexicographically Fair Learning: Algorithms and Generalization"
 #date: 2019-12-01
 publishDate: 2021-06-09
-authors: ["Emily Diana", "Wesley Gill", "Ira Globus-Harris", "Michael Kearns", "Aaron Roth", "Saeed Sharifi-Malvajerdi"]
+authors: ["E Diana", "W Gill", "I Globus-Harris", "M Kearns", "A Roth", "S Sharifi-Malvajerdi"]
 publication_types: ["1"]
 featured: true 
 publication: "2nd Symposium on Foundations of Responsible Computing"
