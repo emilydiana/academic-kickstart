@@ -15,7 +15,7 @@ role: Assistant Professor of Operations Research
 # Organizations/Affiliations
 organizations:
 - name: Carnegie Mellon University's Tepper School of Business
-  url: "https://www.ttic.edu"
+  url: "https://www.cmu.edu/tepper/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
