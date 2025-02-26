@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Algorithmic Interventions for Escaping Pessimism Traps in Dynamic Sequential Decisions"
 #date: 2023-08-09
-publishDate: 2025-06-04
+publishDate: 2025-02-25
 authors: ["A Blum","E Diana","K Ravichandran","AW Tolbert"]
 publication_types: ["1"]
 featured: true 
