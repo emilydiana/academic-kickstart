@@ -2,7 +2,7 @@
 title: "Multiaccurate Proxies for Downstream Fairness"
 #date: 2019-12-01
 publishDate: 2022-06-21
-authors: ["Emily Diana", "Wesley Gill", "Michael Kearns", "Krishnaram Kenthapadi", "Aaron Roth", "Saeed Sharifi-Malvajerdi"]
+authors: ["E Diana", "W Gill", "M Kearns", "K Kenthapadi", "A Roth", "S Sharifi-Malvajerdi"]
 publication_types: ["1"]
 featured: true 
 publication: "2022 ACM Conference on Fairness, Accountability, and Transparency"

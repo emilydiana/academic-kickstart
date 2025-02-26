@@ -2,7 +2,7 @@
 title: "Correcting Underrepresentation and Intersectionality Bias for Classification"
 #date: 2023-08-09
 publishDate: 2023-07-30
-authors: ["Emily Diana","Alexander Williams Tolbert"]
+authors: ["E Diana","AW Tolbert"]
 publication_types: ["1"]
 featured: true 
 publication: "arXiv Preprint"
