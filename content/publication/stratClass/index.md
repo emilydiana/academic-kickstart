@@ -6,6 +6,6 @@ authors: ["Emily Diana","Saeed Sharifi-Malvajerdi","Ali Vakilian"]
 publication_types: ["1"]
 featured: true 
 publication: "arXiv Preprint"
-url_pdf: "http://arxiv.org/pdf/2406.04462.pdf"
+url_pdf: "http://arxiv.org/pdf/2410.02513.pdf"
 ---
 
