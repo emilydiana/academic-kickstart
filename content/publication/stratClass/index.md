@@ -5,7 +5,7 @@ publishDate: 2025-04-09
 authors: ["E Diana","S Sharifi-Malvajerdi","A Vakilian"]
 publication_types: ["1"]
 featured: true 
-publication: "3rd IEEE Conference on Secure and Trustworthy Machine Learning (to appear)"
+publication: "3rd IEEE Conference on Secure and Trustworthy Machine Learning"
 url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10992431"
 ---
 
